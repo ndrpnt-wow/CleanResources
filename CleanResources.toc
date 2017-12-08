@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: CleanResources
+## Notes: Clean up player resources.
+
+config.lua
+core.lua
